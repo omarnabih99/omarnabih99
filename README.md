@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omarnabih99
+- 👋 Hi, I’m Omar Nabih
 - 👀 I’m interested in Embedded Systems
 - 🌱 I’m currently learning Communications Engineering
 - 💞️ I’m looking to collaborate on Embedded Systems Projects

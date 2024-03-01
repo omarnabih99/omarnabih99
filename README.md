@@ -2,7 +2,7 @@
 - 👀 I’m interested in Embedded Systems
 - 🌱 I’m an Electronics and Communication Systems Engineering Graduate
 - 💞️ I’m looking to collaborate on Embedded Systems Projects
-- 📫 How to reach me [![omarnabih](https://github.com/omarnabih99/omarnabih99/blob/main/5296501_linkedin_network_linkedin%20logo_icon.svg)](https://www.linkedin.com/in/omarnabih/)
+- 📫 How to reach me https://www.linkedin.com/in/omarnabih/
 
 
 
